@@ -1,0 +1,22 @@
+{
+  "name": "canvasjs-charts-toggle-fullscreen",
+  "version": "1.0",
+  "description": "Toggle CanvasJS Charts to fullscreen mode across all the modern browsers.",
+  "main": "dist/canvasjschart-fullscreen.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwas-r/CanvasJS-Chart-FullScreen.git"
+  },
+  "keywords": [
+    "canvasjs",
+    "canvasjs chart",
+    "canvasjs fullscreen",
+    "chart full screen"
+  ],
+  "author": "Vishwas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishwas-r/CanvasJS-Chart-FullScreen/issues"
+  },
+  "homepage": "https://github.com/vishwas-r/CanvasJS-Chart-FullScreen"
+}
