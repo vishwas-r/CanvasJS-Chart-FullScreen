@@ -1,6 +1,6 @@
 {
   "name": "canvasjs-charts-toggle-fullscreen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Toggle CanvasJS Charts to fullscreen mode across all the modern browsers.",
   "main": "dist/canvasjschart-fullscreen.min.js",
   "repository": {

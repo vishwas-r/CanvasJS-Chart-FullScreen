@@ -18,12 +18,12 @@ Import the CanvasJS & CanvasJS Toggle FullScreen scritps
 /* or */
 import CanvasJS from './canvasjs.min';
 window.CanvasJS = CanvasJS;
-require('canvasjs-technical-indicators');
+require('canvasjs-charts-toggle-fullscreen');
 
 /* React */
 import CanvasJSReact from './canvasjs.react';
 window.CanvasJS = CanvasJSReact.CanvasJS;
-require('canvasjs-technical-indicators');
+require('canvasjs-charts-toggle-fullscreen');
 ```
 
 ### Pass chart-options & render the chart
