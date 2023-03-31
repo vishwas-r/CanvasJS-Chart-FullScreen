@@ -6,10 +6,23 @@ This plugin allows you to toggle CanvasJS chart to fullscreen
 CanvasJS is built from ground up for high performance data visualization and can render millions of data points in a matter of milliseconds. Charts are beautiful and API is very simple to use.
 ![CanvasJS Chart Fullscreen](https://raw.githubusercontent.com/vishwas-r/CanvasJS-Chart-FullScreen/main/screenshots/togglefullscreen.jpg)
 
-### How to Use?
+## How to Use?
+
+### Importing Script
+Import the CanvasJS & CanvasJS Toggle FullScreen scritps
+```
+/* HTML Script Tag */
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script src="/dist/canvasjs-technical-indicators.min.js"></script>
+
+/* React Apps */
+import CanvasJS from './canvasjs.min';
+window.CanvasJS = CanvasJSReact.CanvasJS;
+require('canvasjs-technical-indicators');
+```
+
 - Set toggleFullScreen to true under chart option
 - Render the chart
-
 ```
 var chart = new CanvasJS.Chart("chartContainer", {
     .
