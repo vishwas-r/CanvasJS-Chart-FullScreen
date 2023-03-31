@@ -13,9 +13,9 @@ Import the CanvasJS & CanvasJS Toggle FullScreen scritps
 ```
 /* HTML Script Tag */
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
-<script src="/dist/canvasjs-technical-indicators.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/canvasjs-charts-toggle-fullscreen/dist/canvasjschart-fullscreen.min.js"></script>
 
-/* React Apps */
+/* or */
 import CanvasJS from './canvasjs.min';
 window.CanvasJS = CanvasJSReact.CanvasJS;
 require('canvasjs-technical-indicators');
